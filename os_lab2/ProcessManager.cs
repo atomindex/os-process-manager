@@ -6,7 +6,6 @@ using System.Text;
 using System.Windows.Forms;
 
 namespace os_lab2 {
-
     public abstract class ProcessManager {
         //LOGIC
         protected Timer timer;                  //Таймер выполнения

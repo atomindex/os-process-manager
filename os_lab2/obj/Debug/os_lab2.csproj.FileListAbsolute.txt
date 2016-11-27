@@ -10,3 +10,9 @@ c:\users\atom\documents\visual studio 2015\Projects\os_lab2\os_lab2\obj\Debug\os
 D:\Atom\Education\ПРО\ПРО-306\-os\complete\os_lab2\os_lab2\bin\Debug\os_lab2.exe.config
 D:\Atom\Education\ПРО\ПРО-306\-os\complete\os_lab2\os_lab2\obj\Debug\os_lab2.exe
 D:\Atom\Education\ПРО\ПРО-306\-os\complete\os_lab2\os_lab2\obj\Debug\os_lab2.pdb
+D:\Atom\Education\ПРО\ПРО-306\-os\complete\os_lab2\os_lab2\bin\Debug\os_lab2.exe
+D:\Atom\Education\ПРО\ПРО-306\-os\complete\os_lab2\os_lab2\bin\Debug\os_lab2.pdb
+D:\Atom\Education\ПРО\ПРО-306\-os\complete\os_lab2\os_lab2\obj\Debug\os_lab2.csprojResolveAssemblyReference.cache
+D:\Atom\Education\ПРО\ПРО-306\-os\complete\os_lab2\os_lab2\obj\Debug\os_lab2.MainForm.resources
+D:\Atom\Education\ПРО\ПРО-306\-os\complete\os_lab2\os_lab2\obj\Debug\os_lab2.Properties.Resources.resources
+D:\Atom\Education\ПРО\ПРО-306\-os\complete\os_lab2\os_lab2\obj\Debug\os_lab2.csproj.GenerateResource.Cache
